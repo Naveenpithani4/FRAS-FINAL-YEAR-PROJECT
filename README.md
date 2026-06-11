@@ -88,7 +88,7 @@ MIT Licensed - Requires activation key for full functionality
 
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&width=500&lines=Naresh+%7C;FRAS+Project+Lead;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&width=500&lines=Naveen+%7C;FRAS+Project+Lead;" alt="Typing Animation">
 </p>
 
 `B.Tech Artificial Intelligence & Machine Learning`  
