@@ -91,10 +91,6 @@ MIT Licensed - Requires activation key for full functionality
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&width=500&lines=Naresh+%7C;FRAS+Project+Lead;" alt="Typing Animation">
 </p>
 
-<!-- Profile Picture Frame -->
-<img src="https://github.com/Nareshchinna07/FRAS-FINAL-YEAR-PROJECT/blob/main/Acc_passportsize.jpg" width="100">
-
-### **Naresh**  
 `B.Tech Artificial Intelligence & Machine Learning`  
 `KIET Group of Institutions, Kakinada`
 
